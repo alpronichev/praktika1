@@ -1,0 +1,922 @@
+{
+    "success": true,
+    "messages": [],
+    "body": {
+        "availablePersonalPromos": [],
+        "promoConfiguratorConfig": {},
+        "materialPrices": [
+            {
+                "productId": "30063680",
+                "price": {
+                    "productId": "30063680",
+                    "basePrice": 69999,
+                    "salePrice": 59999,
+                    "basePromoPrice": 59999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035253",
+                            "promoName": "Скидка по акции",
+                            "discount": 10000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063680",
+                    "total": 12000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1800
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 10200
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30066276",
+                "price": {
+                    "productId": "30066276",
+                    "basePrice": 89999,
+                    "salePrice": 79999,
+                    "basePromoPrice": 79999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000033941",
+                            "promoName": "Скидка по акции",
+                            "discount": 10000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30066276",
+                    "total": 16000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2400
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 13600
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30067463",
+                "price": {
+                    "productId": "30067463",
+                    "basePrice": 68999,
+                    "salePrice": 59999,
+                    "basePromoPrice": 59999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035125",
+                            "promoName": "Скидка по акции",
+                            "discount": 9000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30067463",
+                    "total": 12000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1800
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 10200
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30066689",
+                "price": {
+                    "productId": "30066689",
+                    "basePrice": 51999,
+                    "salePrice": 39999,
+                    "basePromoPrice": 39999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035146",
+                            "promoName": "Скидка по акции",
+                            "discount": 12000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30066689",
+                    "total": 8000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1200
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 6800
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400136876",
+                "price": {
+                    "productId": "400136876",
+                    "basePrice": 55999,
+                    "salePrice": 49999,
+                    "basePromoPrice": 49999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000034968",
+                            "promoName": "Скидка по акции",
+                            "discount": 6000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "400136876",
+                    "total": 10000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1500
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 8500
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400136875",
+                "price": {
+                    "productId": "400136875",
+                    "basePrice": 75999,
+                    "salePrice": 67999,
+                    "basePromoPrice": 67999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000034974",
+                            "promoName": "Скидка по акции",
+                            "discount": 8000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "400136875",
+                    "total": 13600,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2040
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 11560
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30066795",
+                "price": {
+                    "productId": "30066795",
+                    "basePrice": 219999,
+                    "salePrice": 209999,
+                    "basePromoPrice": 209999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000033941",
+                            "promoName": "Скидка по акции",
+                            "discount": 10000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30066795",
+                    "total": 42000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 6300
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 35700
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30066660",
+                "price": {
+                    "productId": "30066660",
+                    "basePrice": 69999,
+                    "salePrice": 55999,
+                    "basePromoPrice": 55999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000033941",
+                            "promoName": "Скидка по акции",
+                            "discount": 14000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30066660",
+                    "total": 11200,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1680
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 9520
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30063385",
+                "price": {
+                    "productId": "30063385",
+                    "basePrice": 99999,
+                    "salePrice": 89999,
+                    "basePromoPrice": 89999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035126",
+                            "promoName": "Скидка по акции",
+                            "discount": 10000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063385",
+                    "total": 18000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2700
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 15300
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400136874",
+                "price": {
+                    "productId": "400136874",
+                    "basePrice": 66999,
+                    "salePrice": 59999,
+                    "basePromoPrice": 59999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000034974",
+                            "promoName": "Скидка по акции",
+                            "discount": 7000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "400136874",
+                    "total": 12000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1800
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 10200
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30066686",
+                "price": {
+                    "productId": "30066686",
+                    "basePrice": 79899,
+                    "salePrice": 69999,
+                    "basePromoPrice": 69999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035125",
+                            "promoName": "Скидка по акции",
+                            "discount": 9900
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30066686",
+                    "total": 14000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2100
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 11900
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30066801",
+                "price": {
+                    "productId": "30066801",
+                    "basePrice": 66999,
+                    "salePrice": 49999,
+                    "basePromoPrice": 49999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000034749",
+                            "promoName": "Скидка по акции",
+                            "discount": 17000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30066801",
+                    "total": 10000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1500
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 8500
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400106264",
+                "price": {
+                    "productId": "400106264",
+                    "basePrice": 36999,
+                    "salePrice": 34999,
+                    "basePromoPrice": 34999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035253",
+                            "promoName": "Скидка по акции",
+                            "discount": 2000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "400106264",
+                    "total": 7000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1050
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 5950
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400136878",
+                "price": {
+                    "productId": "400136878",
+                    "basePrice": 68999,
+                    "salePrice": 61999,
+                    "basePromoPrice": 61999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000034974",
+                            "promoName": "Скидка по акции",
+                            "discount": 7000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "400136878",
+                    "total": 12400,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1860
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 10540
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30066661",
+                "price": {
+                    "productId": "30066661",
+                    "basePrice": 69999,
+                    "salePrice": 55999,
+                    "basePromoPrice": 55999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000033941",
+                            "promoName": "Скидка по акции",
+                            "discount": 14000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30066661",
+                    "total": 11200,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1680
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 9520
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30066764",
+                "price": {
+                    "productId": "30066764",
+                    "basePrice": 62899,
+                    "salePrice": 53999,
+                    "basePromoPrice": 53999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035125",
+                            "promoName": "Скидка по акции",
+                            "discount": 8900
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30066764",
+                    "total": 10800,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1620
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 9180
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400136873",
+                "price": {
+                    "productId": "400136873",
+                    "basePrice": 73999,
+                    "salePrice": 65999,
+                    "basePromoPrice": 65999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000034974",
+                            "promoName": "Скидка по акции",
+                            "discount": 8000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "400136873",
+                    "total": 13200,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1980
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 11220
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30065212",
+                "price": {
+                    "productId": "30065212",
+                    "basePrice": 124999,
+                    "salePrice": 104999,
+                    "basePromoPrice": 104999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035267",
+                            "promoName": "Скидка по акции",
+                            "discount": 20000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30065212",
+                    "total": 21000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3150
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 17850
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30067605",
+                "price": {
+                    "productId": "30067605",
+                    "basePrice": 53999,
+                    "salePrice": 37999,
+                    "basePromoPrice": 37999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035125",
+                            "promoName": "Скидка по акции",
+                            "discount": 16000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30067605",
+                    "total": 7600,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1140
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 6460
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30066688",
+                "price": {
+                    "productId": "30066688",
+                    "basePrice": 66999,
+                    "salePrice": 49999,
+                    "basePromoPrice": 49999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035253",
+                            "promoName": "Скидка по акции",
+                            "discount": 17000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30066688",
+                    "total": 10000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1500
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 8500
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30067507",
+                "price": {
+                    "productId": "30067507",
+                    "basePrice": 49999,
+                    "salePrice": 37999,
+                    "basePromoPrice": 37999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035125",
+                            "promoName": "Скидка по акции",
+                            "discount": 12000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30067507",
+                    "total": 7600,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1140
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 6460
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400079994",
+                "price": {
+                    "productId": "400079994",
+                    "basePrice": 85999,
+                    "salePrice": 69999,
+                    "basePromoPrice": 69999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035253",
+                            "promoName": "Скидка по акции",
+                            "discount": 16000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "400079994",
+                    "total": 14000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2100
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 11900
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30065211",
+                "price": {
+                    "productId": "30065211",
+                    "basePrice": 104999,
+                    "salePrice": 89999,
+                    "basePromoPrice": 89999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035253",
+                            "promoName": "Скидка по акции",
+                            "discount": 15000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30065211",
+                    "total": 18000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2700
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 15300
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30067509",
+                "price": {
+                    "productId": "30067509",
+                    "basePrice": 59999,
+                    "salePrice": 47999,
+                    "basePromoPrice": 47999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000035125",
+                            "promoName": "Скидка по акции",
+                            "discount": 12000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30067509",
+                    "total": 9600,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1440
+                        },
+                        {
+                            "promoName": "Белая пятница: Кэшбэк 20% на всё",
+                            "bonusType": "490001",
+                            "total": 8160
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
